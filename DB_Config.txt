@@ -1,0 +1,5 @@
+postgres
+SuperU$er4476
+strategy04
+5432
+postgres

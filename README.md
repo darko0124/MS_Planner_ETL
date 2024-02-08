@@ -9,7 +9,7 @@
 
 📚 Features:
 
-- Make a automatic connection to particular plan in microsoft planner
+- Make an automatic connection to particular plan in microsoft planner
 - Obtain the raw data from the planner
 - Transform the data so it's more understandable and readable
 - Send the transformed and cleared data to a database

@@ -1,6 +1,6 @@
 🔍 Goal of the project :
 
-- The main goal of this project was to obtain data from microsoft planner using the MS Graph API.
+- The main goal of this project was to obtain data from MS Planner using the MS Graph API.
 
 ⚙️ Tech Stack:
 

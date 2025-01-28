@@ -4,7 +4,7 @@
 
 ⚙️ Tech Stack:
 
-- PostgreSql DataBase
+- PostgreSql
 - Python
 
 📚 Features:
